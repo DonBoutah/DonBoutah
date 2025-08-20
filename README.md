@@ -23,12 +23,6 @@ I enjoy building **scalable backends**, crafting clean APIs, and exploring **Nes
 
 ---
 
-### 📊 GitHub Stats
-![Don's GitHub stats](https://github-readme-stats.vercel.app/api?username=donboutah&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donboutah&layout=compact&theme=tokyonight)
-
----
-
 ### 🤝 Let’s Connect
 📩 **async.node.dev@gmail.com**  
 🌐 [GitHub](https://github.com/donboutah)
