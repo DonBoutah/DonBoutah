@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋 I'm Don Boutah  
 
-<!--
-**DonBoutah/DonBoutah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Senior Backend Developer** | ⚡ API Architect | ☁️ Cloud Enthusiast  
 
-Here are some ideas to get you started:
+I enjoy building **scalable backends**, crafting clean APIs, and exploring **NestJS, TypeORM, GraphQL, Redis, and Google Cloud**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-262627?style=flat&logo=typeorm&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
+---
+
+### 📂 Featured Projects
+🔹 **Adayo** – Innovative ads platform powered by Google Ads API  
+🔹 **WeeTec** – Modern backend with NestJS + GraphQL + TypeORM  
+
+---
+
+### 📊 GitHub Stats
+![Don's GitHub stats](https://github-readme-stats.vercel.app/api?username=donboutah&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donboutah&layout=compact&theme=tokyonight)
+
+---
+
+### 🤝 Let’s Connect
+📩 **async.node.dev@gmail.com**  
+🌐 [GitHub](https://github.com/donboutah)
+🐦 [X (Twitter)](https://x.com/donboutah)  
+---
+⭐️ From [Don Boutah](https://github.com/donboutah)
